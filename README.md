@@ -1,6 +1,6 @@
 #learning-shell
 
-shell scripting topics
- text
-1.projects
+shell scripting topics.
+````
+1.printing
 2.comments
