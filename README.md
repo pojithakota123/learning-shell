@@ -1,5 +1,6 @@
 #learning-shell
 
-we will learn shell scripting here
+shell scripting topics
+ text
 1.projects
 2.comments
